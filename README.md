@@ -2,7 +2,7 @@
 
 A multi-tenant webhook delivery platform built with Python, FastAPI, Redis, and SQLAlchemy, designed to demonstrate event-driven backend architecture, asynchronous delivery, and reliability patterns.
 
-## Project Highlights
+## Project Highlights 
 
 - Event-driven webhook delivery with endpoint registration and fan-out
 - Asynchronous workers with retry scheduling and DLQ handling
