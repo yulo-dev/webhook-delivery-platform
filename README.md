@@ -9,7 +9,7 @@ A multi-tenant webhook delivery platform built with Python, FastAPI, Redis, and 
 - HMAC-SHA256 signed payload delivery for receiver verification
 - End-to-end local demo with mock webhook receiver  
 
-## Architecture
+## Architecture  
 
 ```
 ┌──────────────┐     ┌──────────┐     ┌──────────────────┐     ┌────────────────┐     ┌─────────────────┐     ┌─────────────────┐
